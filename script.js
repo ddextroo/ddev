@@ -26,13 +26,13 @@ $('.menu-btn i').toggleClass("active");
 
 /*type*/
 var typed = new Typed(".typing", {
-    strings: ["Developer", "Youtuber", "Digital Artist", "Pentester", "Freelancer"],
+    strings: ["Developer", "Youtuber", "Digital Artist", "Pentester", "Freelancer", "Developer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
 })
 var typed = new Typed(".typing-2", {
-    strings: ["Developer", "Youtuber", "Digital Artist", "Pentester", "Freelancer"],
+    strings: ["Developer", "Youtuber", "Digital Artist", "Pentester", "Freelancer", "Developer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true

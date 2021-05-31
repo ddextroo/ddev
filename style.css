@@ -74,7 +74,7 @@ transition: all 0.3s ease;
 /*home section*/
 .home {
     display: flex;
-    background-color: #03001e;
+    background: url("images/cover.png");
     height: 100vh;
     color: #fff;
     min-height: 500px;
